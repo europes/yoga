@@ -54,7 +54,7 @@ display: flex;
 width:110%;
 	margin-left:-10px;
 	top:-10px;
-background-color:#ffb3b3;
+background-color:#b30086;
 align-items:center;
 justify-content:space-between;
 flex-wrap:nowrap;
@@ -92,7 +92,7 @@ width:15%;
 	
 h1 {
 	  font-size: 32px;  	
-	color:black;
+	color:white;
 	}
 	
-.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-36 { font-size: 63px; }
